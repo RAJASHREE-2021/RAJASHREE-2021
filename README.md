@@ -1,7 +1,7 @@
 ![logo](https://github.com/RAJASHREE-2021/RAJASHREE-2021/blob/main/Blue%20Modern%20Technology%20LinkedIn%20Banner.png)
 <h1 align="center">Hi 👋, I'm RAJASHREE CHATTERJEE</h1>
 <h3 align="center">A passionate web developer from India, pursuing B.Tech Final year and trying to upgrade myself</h3>
-<img align="right" alt="coding width="400"  src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2FAnmol-Baranwal%2FCool-GIFs-For-GitHub&psig=AOvVaw3tS-_0HWG0Va_vAae8qy96&ust=1722949468654000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCLj6zYr13YcDFQAAAAAdAAAAABAJ">
+<img align="right" alt="coding width="400"  src="![image](https://github.com/user-attachments/assets/ce5f0ed1-6b6f-4ef0-8a32-8692aa3ea4b8)">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajashree-2021&label=Profile%20views&color=0e75b6&style=flat" alt="rajashree-2021" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rajashree-2021" alt="rajashree-2021" /></a> </p>
